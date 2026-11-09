@@ -11,7 +11,7 @@
 
 <body>
     <div class="bg-primary py-5 text-center text-white">
-        <h1 class="fw-bold">CREATE STUDENT</h1>
+        <h1 class="fw-bold">{{ $title }}</h1>
     </div>
 
     <div class="container my-5">
